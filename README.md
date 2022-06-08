@@ -3,7 +3,8 @@
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Data Science projects
-- 📫 How to reach me inspirationalmlm@gmail.com
+- 📫 How to reach me www.twitter.com/theMikeLanre
+- Fun Fact: Founded a digital company within weeks
 
 <!---
 Mlm6686/Mlm6686 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
